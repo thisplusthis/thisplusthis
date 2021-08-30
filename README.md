@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thisplusthis
-- 👀 I’m interested in Python, Django, Docker and SuperCollider.
-- 📫 mail: thisplusthis + @ + gmail.com
+- 👀 I’m a full stack developer interested in Python, Django, Docker and SuperCollider.
+- 📫 thisplusthis + @ + gmail.com
 
 <!---
 thisplusthis/thisplusthis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

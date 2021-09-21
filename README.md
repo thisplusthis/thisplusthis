@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thisplusthis
-- 👀 I’m a full stack developer interested in Python, Django, Docker and SuperCollider.
+- 👀 I’m a full stack developer interested in Python, Django, Docker, k8s, Helm and SuperCollider.
 - 📫 thisplusthis + @ + gmail.com
 
 <!---

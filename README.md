@@ -1,6 +1,3 @@
-- Python, Django, Docker, Kubernetes, Lua and SuperCollider.
-- 📫 thisplusthis @ gmail.com
-
 ```
 while still_here:
     getting_better = True

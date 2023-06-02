@@ -1,6 +1,6 @@
 ```
 while still_here:
-    getting_better = True
+    getting_better != False
 ```
 
 <!---

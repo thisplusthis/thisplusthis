@@ -1,6 +1,10 @@
-- 👋 Hi, I’m James
-- 👀 I’m a full stack developer interested in Python, Django, Docker, Kubernetes, Lua and SuperCollider.
+- Python, Django, Docker, Kubernetes, Lua and SuperCollider.
 - 📫 thisplusthis @ gmail.com
+
+```
+while still_here:
+    getting_better = True
+```
 
 <!---
 thisplusthis/thisplusthis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
